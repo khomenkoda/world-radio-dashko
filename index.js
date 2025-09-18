@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { View, Text, FlatList, TouchableOpacity } from "react-native";
 import { Audio } from "expo-av";
 
-// Список станцій (можеш додати свої)
+// Список станцій
 const stations = [
   {
     id: "1",
